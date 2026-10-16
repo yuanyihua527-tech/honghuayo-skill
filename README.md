@@ -21,6 +21,16 @@
 
 ### 安装与调用
 
+在终端执行下面这一行，再按提示选择要安装的 Agent：
+
+```bash
+npx skills add yuanyihua527-tech/honghuayo-skill --skill fde-enterprise-ai
+```
+
+也可以把这条命令交给有终端执行能力的 AI 助手，让它代为安装。
+
+其他安装方式：
+
 在支持 skill-installer 的 Codex 中，可以直接对助手说：
 
 > 使用 skill-installer，从 GitHub 仓库 yuanyihua527-tech/honghuayo-skill 安装 skills/fde-enterprise-ai。
