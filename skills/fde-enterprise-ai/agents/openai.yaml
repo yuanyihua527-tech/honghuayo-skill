@@ -1,0 +1,4 @@
+interface:
+  display_name: "FDE 碰头会实用助手"
+  short_description: "结合你的行业与岗位，理解活动观点、寻找AI场景并制定落地小计划"
+  default_prompt: "使用 $fde-enterprise-ai，先用一条简短消息介绍怎么用，并给我5个可以直接照着问的使用提示。"

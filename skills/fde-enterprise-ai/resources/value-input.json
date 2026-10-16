@@ -1,0 +1,15 @@
+{
+  "period": "month",
+  "currency": "CNY",
+  "evidence_status": "estimate",
+  "cases_per_month": 1000,
+  "baseline_minutes": 20,
+  "assisted_minutes": 8,
+  "review_minutes": 2,
+  "rework_minutes": 1,
+  "hourly_cost": 50,
+  "realized_cash_savings_per_month": null,
+  "recurring_cost_per_month": 1800,
+  "one_off_cost": 12000,
+  "quality_guardrails": "Synthetic example: no critical quote errors; compare the same task mix and check actual quality before claiming benefit."
+}
